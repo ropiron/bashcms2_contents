@@ -14,6 +14,7 @@ Copyright: (C) 2020 Hiroyuki Sannomiya
 ラーメン!ラーメン！
 
 今年も良いお年を
+お餅食べたいな
 
 * [白ネギへジャンプ](#white)
 
