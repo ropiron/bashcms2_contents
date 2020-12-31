@@ -13,6 +13,8 @@ Copyright: (C) 2020 Hiroyuki Sannomiya
 
 ラーメン!ラーメン！
 
+今年も良いお年を
+
 * [白ネギへジャンプ](#white)
 
 ## 青ネギ
