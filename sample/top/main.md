@@ -1,8 +1,7 @@
 ---
-Keywords:
+Keywords: bashcms2, bash
 Copyright: (C) 2020 Hiroyuki Sannomiya
 ---
 
 # タイトル
-
-Write contents here.
+I feel great.
