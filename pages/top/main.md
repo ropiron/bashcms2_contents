@@ -12,7 +12,6 @@ hogehoge, fugafuga
 Yo!Yo!Yo!
 
 
-oh, lord
 
 
 foobar
